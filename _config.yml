@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Paulo de Almeida's resume
+description: Paulo de Almeida's resume
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: http://paulodealmeida.github.io/
+url: http://paulodealmeida.github.io/
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: 
 
 # Build settings
 markdown: kramdown
@@ -14,15 +14,15 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Paulo de Almeida
+  title: PHP Developer
+  address: Bahia, Brazil
+  email: paulodealmeida@gmail.com
+  link: http://paulodealmeida.github.io/
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: paulodealmeida
+  linkedin: paulodealmeida
+  twitter: paulodealmeida
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
@@ -59,14 +59,11 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Portuguese
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
   programmingSkills:
     - skill1:
       name: HTML
