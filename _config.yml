@@ -2,7 +2,7 @@
 title: Almeida's resume
 description: Paulo de Almeida's resume
 favicon: /assets/img/avatar.jpg
-baseurl: http://paulodealmeida.github.io
+baseurl: 
 url: http://paulodealmeida.github.io
 rss_url: /pages/atom.xml
 google_analytics: 
@@ -28,35 +28,48 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Soledade Tecnologia
+      location: Bahia, Brazil
+      title: PHP developer
+      started: 2015
+      duration: (12/2015 - Present)
+      description: Development of internal products using Laravel and Oracle.
+    
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Simetria Tecnologia
+      location: Bahia, Brazil
+      title: Team leader, scrum master and PHP developer
+      started: 2014
+      duration: (11/2014 – 12/2015)
+      description: Team guidance and development of internal products using Laravel and MySQL.
+    
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: MW8 Soluções
+      location: Bahia, Brazil
+      title: Ruby developer
+      started: 2014
+      duration: (03/2014 – 11/2014)
+      description: Development of internal products using Ruby on Rails and MySQL.
+  
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
+      organization: União Metropolitana de Educação e Cultura, Bahia, Brazil
+      location: Bahia, Brazil
+      degree: MBA
+      major: Project Management
+      started: 2013
+      duration: (2013 - 2015)
+      description: 
+
+    - education1:
+      organization: União Metropolitana de Educação e Cultura, Bahia, Brazil
+      location: Bahia, Brazil
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      major: Information System
+      started: 2009
+      duration: (2009 - 2013)
+      description: 
+
   languages:
     - language1:
       name: Portuguese
@@ -64,6 +77,7 @@ author:
     - language2:
       name: English
       proficiency: Professional
+
   programmingSkills:
     - skill1:
       name: HTML
