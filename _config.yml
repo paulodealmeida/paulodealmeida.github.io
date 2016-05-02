@@ -1,7 +1,7 @@
 # Site settings
 title: Almeida's resume
 description: Paulo de Almeida's resume
-favicon: /assets/img/avatar.jpg
+favicon: /assets/img/avatar.JPG
 baseurl: http://paulodealmeida.github.io
 url: http://paulodealmeida.github.io
 rss_url: /pages/atom.xml
@@ -23,7 +23,7 @@ author:
   github: paulodealmeida
   linkedin: paulodealmeida
   twitter: paulodealmeida
-  gavatar: /assets/img/avatar.jpg
+  gavatar: /assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
