@@ -21,7 +21,7 @@ author:
   link: http://paulodealmeida.github.io
   weibo:
   github: paulodealmeida
-  linkedin: paulodealmeida
+  linkedin: paulodealmeida00
   twitter: paulodealmeida
   gavatar: /assets/img/avatar.jpg
   stackoverflow:
@@ -50,6 +50,30 @@ author:
       started: 2014
       duration: (03/2014 – 11/2014)
       description: Development of internal products using Ruby on Rails and MySQL.
+
+    - work4:
+      company: Olaria
+      location: Bahia, Brazil
+      title: PHP developer
+      started: 2013
+      duration: (04/2013 – 03/2014)
+      description: Development of internal products using PHP and MySQL.
+
+    - work5:
+      company: IMAP - Instituto Municipal de Administração Pública
+      location: Bahia, Brazil
+      title: PHP developer
+      started: 2012
+      duration: (08/2012 – 04/2013)
+      description: Development of internal products using PHP and MySQL.
+
+    - work6:
+      company: NNSolutions
+      location: Bahia, Brazil
+      title: PHP developer
+      started: 2011
+      duration: (09/2011 – 08/2012)
+      description: Development of internal products using CakePHP and MySQL.
   
   educationHistory:
     - education1:
@@ -80,14 +104,14 @@ author:
 
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Linux
       percentage: 100%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
-    - skill3:
-      name: JavaScript
-      percentage: 50%
-    - skill4:
-      name: PHP
+      name: Scrum
       percentage: 100%
+    - skill3:
+      name: PHP
+      percentage: 90%
+    - skill4:
+      name: Laravel
+      percentage: 80%
