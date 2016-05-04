@@ -116,3 +116,17 @@ author:
     - skill4:
       name: Laravel
       percentage: 80%
+
+  otherSkills:
+    - skill1:
+      name: Linux
+      percentage: 100%
+    - skill2:
+      name: Scrum
+      percentage: 100%
+    - skill3:
+      name: PHP
+      percentage: 90%
+    - skill4:
+      name: Laravel
+      percentage: 80%

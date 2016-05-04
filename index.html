@@ -253,6 +253,28 @@ layout: default
                     </ul>
                 </div>
             {% endif %}
+            {% if site.author.otherSkills %}
+                <div class="deviter"></div>
+                <h3 class="title with-icon"><span class="fa fa-globe cat-title"></span> Other Skills</h3>
+                <div class="grid-block">
+                    <ul class="list-unstyled list-skills">
+                        {% for otherSkill in site.author.otherSkills %}
+                            <li>
+                                {% if otherSkill.name %}
+                                    <span class="caption-skill">{{ otherSkill.name }}</span>
+                                {% endif %}
+                                {% if otherSkill.percentage %}
+                                    <div class="progress">
+                                        <div class="progress-bar" style="width: {{ otherSkill.percentage }}">
+                                            <span>{{ otherSkill.percentage }} </span>
+                                        </div>
+                                    </div>
+                                {% endif %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endif %}
             <div class="deviter"></div>
             <h3 class="title with-icon"><span class="fa fa-location-arrow cat-title"></span> Location</h3>
             <div class="grid-block">
