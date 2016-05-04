@@ -2,6 +2,7 @@
 title: Almeida's resume
 description: Paulo de Almeida's resume
 favicon: /assets/img/avatar.jpg
+pdficon: /assets/img/pdf-icon.png
 baseurl: 
 url: http://paulodealmeida.github.io
 rss_url: /pages/atom.xml
