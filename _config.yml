@@ -6,7 +6,7 @@ pdficon: /assets/img/pdf-icon.png
 baseurl: 
 url: http://paulodealmeida.github.io
 rss_url: /pages/atom.xml
-google_analytics: 
+google_analytics: UA-74208838-1
 
 # Build settings
 markdown: kramdown
