@@ -105,28 +105,25 @@ author:
 
   programmingSkills:
     - skill1:
-      name: Linux
-      percentage: 100%
-    - skill2:
-      name: Scrum
-      percentage: 100%
-    - skill3:
       name: PHP
-      percentage: 90%
+      percentage: 95%
+    - skill2:
+      name: Ruby
+      percentage: 70%
+    - skill3:
+      name: JavaScript
+      percentage: 70%
     - skill4:
-      name: Laravel
-      percentage: 80%
+      name: Python
+      percentage: 50%
 
   otherSkills:
     - skill1:
-      name: Linux
-      percentage: 100%
-    - skill2:
       name: Scrum
       percentage: 100%
-    - skill3:
-      name: PHP
+    - skill2:
+      name: Linux
       percentage: 90%
-    - skill4:
-      name: Laravel
-      percentage: 80%
+    - skill3:
+      name: AWS
+      percentage: 60%
