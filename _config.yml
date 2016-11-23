@@ -107,16 +107,16 @@ author:
   programmingSkills:
     - skill1:
       name: PHP
-      percentage: 95%
+      percentage: 90%
     - skill2:
       name: Ruby
       percentage: 70%
     - skill3:
-      name: JavaScript
-      percentage: 70%
-    - skill4:
       name: Python
       percentage: 50%
+    - skill4:
+      name: JavaScript
+      percentage: 40%
 
   otherSkills:
     - skill1:
