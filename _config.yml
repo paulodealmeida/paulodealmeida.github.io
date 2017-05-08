@@ -16,7 +16,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Paulo de Almeida
-  title: PHP Developer
+  title: PHP Developer, CSD, CSPO
   address: Bahia, Brazil
   email: paulodealmeida@gmail.com
   link: http://paulodealmeida.github.io
@@ -110,7 +110,7 @@ author:
       percentage: 90%
     - skill2:
       name: Ruby
-      percentage: 70%
+      percentage: 50%
     - skill3:
       name: Python
       percentage: 50%
