@@ -23,7 +23,7 @@ author:
   weibo:
   github: paulodealmeida
   linkedin: paulodealmeida00
-  #twitter:
+#  twitter:
   wordpress: paulodealmeida
   gavatar: /assets/img/avatar.jpg
   stackoverflow:
@@ -36,7 +36,7 @@ author:
       title: Scrum Master and PHP developer
       started: 2015
       duration: (12/2015 - 07/2017)
-      description: Development of dashboards, analysis systems sales to Ricardo Eletro, and internal products using Laravel , Oracle and MySQL. Team guidance with Scrum knowledge, applying agile techniques to improve fast delivery. There we delivered an easy start project and improvements in Ubuntu script for a rapid environment configuration.
+      description: Development of dashboards, sales analysis system to Ricardo Eletro, and internal products using Laravel , Oracle and MySQL. Team guidance with Scrum knowledge, applying agile techniques to improve fast delivery. There we delivered an easy start project and improvements in Ubuntu script for a rapid environment configuration.
     
     - work2:
       company: Simetria Tecnologia
