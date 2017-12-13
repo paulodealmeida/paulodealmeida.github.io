@@ -3,6 +3,7 @@ title: Almeida's resume
 description: Paulo de Almeida's resume
 favicon: /assets/img/avatar.jpg
 pdficon: /assets/img/pdf-icon.png
+sm_download: /assets/img/sm-download.png
 baseurl: 
 url: http://paulodealmeida.github.io
 rss_url: /pages/atom.xml
@@ -23,12 +24,11 @@ author:
   weibo:
   github: paulodealmeida
   linkedin: paulodealmeida00
-#  twitter:
-  wordpress: paulodealmeida
+  twitter:
+  wordpress:
   gavatar: /assets/img/avatar.jpg
   stackoverflow:
   download_resume: https://drive.google.com/open?id=0B-8O4-REqyMsR3hSTEd6M1Vhd0k
-#  stackoverflow: 4582127
   workHistory:
     - work1:
       company: Soledade Tecnologia
@@ -88,7 +88,7 @@ author:
       duration: (2013 - 2015)
       description: 
 
-    - education1:
+    - education2:
       organization: União Metropolitana de Educação e Cultura, Bahia, Brazil
       location: Bahia, Brazil
       degree: Bachelor
@@ -97,13 +97,46 @@ author:
       duration: (2008 - 2012)
       description: 
 
+  certifications:
+    - certification1:
+      name: Certified Scrum Master
+      abbreviation: CSM
+      authority: Scrum Alliance
+      license_number: License 000418881
+      started: 2017
+      duration: (2017 - 2019)
+      certification_url: 
+      description: 
+
+    - certification2:
+      name: Certified Scrum Product Owner
+      abbreviation: CSPO
+      authority: Scrum Alliance
+      license_number: License 000418881
+      started: 2015
+      duration: (2015 - 2019)
+      certification_url: 
+      description: 
+
+    - certification3:
+      name: Certified Scrum Developer
+      abbreviation: CSD
+      authority: Scrum Alliance
+      license_number: License 000418881
+      started: 2015
+      duration: (2015 - 2019)
+      certification_url: 
+      description: 
+
+
+
   languages:
     - language1:
       name: Portuguese
       proficiency: Native
     - language2:
       name: English
-      proficiency: Professional
+      proficiency: Fluent
 
   programmingSkills:
     - skill1:

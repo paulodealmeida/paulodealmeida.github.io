@@ -47,6 +47,10 @@ hr {
     border-bottom: 1px solid #eee;
 }
 
+h3 {
+    margin-top: 0px;
+}
+
 .header {
     background-color: #f0f0f0;
     background-image: url(../img/bg-top.jpg);
